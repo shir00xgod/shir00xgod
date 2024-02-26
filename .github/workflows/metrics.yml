@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: fugoou
+          user: shir00xgod
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
@@ -81,3 +81,4 @@ jobs:
           plugin_starlists_shuffle_repositories: yes
           plugin_stars: yes
           plugin_stars_limit: 4
+          
