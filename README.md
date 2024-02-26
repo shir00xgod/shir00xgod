@@ -44,7 +44,3 @@ main = do
 <div align="center">
   <img align="center" alt="count" src="https://count.getloli.com/get/@:shir00xgod?theme=asoul">
 </div>
-
-<p align="center">
-	<img width="625em" src="./github-metrics.svg" />
-</p>
