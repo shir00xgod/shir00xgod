@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/xshir00xgod/xshir00xgod/main/75f0aaa07843f3c35917e300e963ce37.gif">
+<img src="https://raw.githubusercontent.com/shir00xgod/shir00xgod/main/75f0aaa07843f3c35917e300e963ce37.gif">
 </div>
 <br>
 
@@ -42,7 +42,7 @@ main = do
 </p>
 
 <div align="center">
-  <img align="center" alt="count" src="https://count.getloli.com/get/@:xshir00xgod?theme=asoul">
+  <img align="center" alt="count" src="https://count.getloli.com/get/@:shir00xgod?theme=asoul">
 </div>
 
 <p align="center">
